@@ -2,7 +2,7 @@
 
 body {
 	text-align: center;
-	background: url(/Images/Tulips.jpg);
+	background: url("/Images/Tulips.jpg");
 	background-size: cover;
 }
 nav ul, footer ul {
